@@ -1,1 +1,4 @@
 Data/
+results/
+work/
+.nextflow*
