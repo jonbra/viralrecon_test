@@ -1,4 +1,5 @@
 Data/Rawfastq/
+Data/Kraken_db/
 results/
 work/
 .nextflow*
